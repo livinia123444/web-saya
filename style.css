@@ -1,0 +1,57 @@
+.logo {
+    max-width: 150px; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+#centered-image {
+    text-align: center; 
+    padding: 50px 0;
+}
+
+.center-image {
+    max-width: 80%; 
+    height: auto; 
+    display: inline-block;
+    margin: 0 auto; 
+}
+nav ul li a {
+    color: #ba7718;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: #c91212;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #35424a;
+    color: #b1073d;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
